@@ -1,14 +1,11 @@
 Unlisted youtube video:
-(Will be given)
+https://youtu.be/L4_XQFDuZ3A
 
 Conference submitted paper / paper submission / login Link:
 (Will be given)
 
 Paper title:
-Visual Question Answering in Bangla
-
-Paper presentation (anyone can view without login):
-(Will be given)
+Visual Question Answering in Bangla to assist individuals with visual impairments
 
 Paper submission date (to workshop/conference):
 (Will be given)
