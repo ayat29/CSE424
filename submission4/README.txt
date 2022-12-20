@@ -2,22 +2,22 @@ Unlisted youtube video:
 https://youtu.be/L4_XQFDuZ3A
 
 Conference submitted paper / paper submission / login Link:
-(Will be given)
+https://cmt3.research.microsoft.com/ICCTA2023/Submission/Index
 
 Paper title:
 Visual Question Answering in Bangla to assist individuals with visual impairments
 
 Paper submission date (to workshop/conference):
-(Will be given)
+Mon, 19 Dec 2022
 
 Paper submission ID: (received) from conference/workshop
-(Will be given)
+7
 
 Conference Name:
-(Will be given)
+2023 9th International Conference on Computer Technology Applications
 
 Conference URL:
-(Will be given)
+http://www.iccta.net/
 
 Group Number:
 7
